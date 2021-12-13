@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sirHamilton
 - 👀 I’m interested in Economics and Finance, as well as any other topic that I find interesting.
-- 🌱 I’m currently learning machine learning and statistics.
+- 🌱 I’m currently looking into machine learning and statistics.
 - 💞️ I’m looking to collaborate on anything I can.
 - 📫 How to reach me? Well, you can reach me personally @ hamiltonnn19@gmail.com
 
